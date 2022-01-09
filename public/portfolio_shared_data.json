@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Aswin Soundararajan",
-      "titles": [ "Aspiring DevOps Developer" , "Sys Admin", "Cloud Native Advocate", "Site Reliability Engineer" ],
+      "titles": [ "Aspiring DevOps Developer" , "Sys Admin That Code", "Cloud Native Advocate", "Site Reliability Engineer" ],
       "social": [
         {
           "name": "github",
@@ -22,53 +22,11 @@
       "image": "myProfile.jpg"
     },
     "skills": {
-      "icons": [
+      "icons": [             
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "NodeJS",
-          "class": "devicon-nodejs-plain",
-          "level": "85"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "80"
-        },
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-original",
-          "level": "75"
-        },
-        
-        {
-          "name": "Docker",
-          "class": "devicon-docker-plain",
-          "level": "60"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "60"
-        },
-        {
-          "name": "Linux",
-          "class": "devicon-linux-plain",
-          "level": "60"
-        }        
+          "name": "Azure",
+          "class": "devicon-azure-plain-wordmark colored"
+        }
       ]
     }
   }

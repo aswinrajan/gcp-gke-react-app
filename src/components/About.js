@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/spring";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/ruby";
 
 class About extends Component {
   render() {
@@ -13,9 +9,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about1 = this.props.resumeBasicInfo.description;
-      var about2 = this.props.resumeBasicInfo.philosophy;
-      var about3 = this.props.resumeBasicInfo.preference;
-    }
+       }
 
     return (
       <section id="about">
@@ -31,19 +25,7 @@ class About extends Component {
                     height="250px"
                     src={profilepic}
                     alt="Avatar placeholder"
-                  />
-                  <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  />                 
                 </span>
               </div>
             </div>
@@ -83,12 +65,13 @@ class About extends Component {
                     <br />
                     <br />
                     {about1}
+                    <br />            
                     <br />
+                    {about1}
+                    <br />    
                     <br />
-                    {about2}
-                    <br />
-                    <br />
-                    {about3}
+                    {about1}
+                    <br />           
                   </div>
                 </div>
               </div>

@@ -1,14 +1,13 @@
 {
     "basic_info": {
       "description_header": "Hi!",
-      "description": "👋 I'm Aswin Soundararajan. I’m an an experienced Systems Adminstrator with experience DevOps Developer currently working as a Technical Analyst for Maximus Canada.",
+      "description": "👋 I'm Aswin Soundararajan. I’m an an experienced Systems Adminstrator, aspiring DevOps Developer & currently working as a Technical Analyst for Maximus Canada.",
       "section_name": {
         "about": "About me",        
         "projects": "Projects",
         "experience": "Experience",
         "skills": "Skills",        
-        "education": "Education",
-        "expertise": "Expertise"        
+        "education": "Education" 
       }
     },
     "projects": [      
@@ -72,19 +71,7 @@
           "Enterprise"
         ]
       }
-    ],
-    "expertise": {
-      "icons": [
-        {
-          "title": "Full-Stack Web Development",
-          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Java (+ Spring Framework), NodeJS (+ Express), Serverless (+ AWS Lambda), PHP (+ Laravel/Symfony), React (+ Redux), and Ruby on Rails. I'm able to create and maintain APIs, web servers, and dockerised environments."
-        },
-        {
-          "title": "Database Systems",
-          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
-        }        
-      ]
-    },
+    ],    
     "experience": [
       {
         "company": "Maximus Canada",

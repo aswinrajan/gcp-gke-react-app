@@ -4,19 +4,19 @@
       "titles": [ "Aspiring DevOps Developer" , "Sys Admin That Code", "Cloud Native Advocate", "Site Reliability Engineer" ],
       "social": [
         {
-          "name": "github",
+          "name": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg",
           "url": "https://github.com/aswinrajan",
-          "class": "fab fa-github"
+          "img": "fab fa-github"
         },
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/aswin-soundararajan-8126ba227/",
-          "class": "fab fa-linkedin"
+          "img": "fab fa-linkedin"
         },
         {
           "name": "email",
           "url": "mailto:aswin.soundararajan@gmail.com",
-          "class": "fa fa-envelope"
+          "img": "fa fa-envelope"
         }        
       ],
       "image": "myProfile.jpg"
@@ -25,7 +25,127 @@
       "icons": [             
         {
           "name": "Azure",
-          "class": "devicon-azure-plain-wordmark colored"
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+        },
+        {
+          "name": "AWS",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        },
+        {
+          "name": "Bash",
+          "img":"https://api.iconify.design/logos/bash-icon.svg?width=80&height=80"
+        },
+        {
+          "name": "Bitbucket",
+          "img":"https://api.iconify.design/logos/bitbucket.svg?width=80&height=80"
+        },
+        {
+          "name": "CentOS",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg"
+        },        
+        {
+          "name": "CircleCI",
+          "img":"https://api.iconify.design/vscode-icons/folder-type-circleci-opened.svg?width=80&height=80"
+        },
+        {
+          "name": "CSS",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Docker",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+        },
+        {
+          "name": "Git",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+        },
+        {
+          "name": "Github",
+          "img":"https://api.iconify.design/logos/github-octocat.svg?width=80&height=80"
+        },
+        {
+          "name": "GitLab",
+          "img":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+        },
+        {
+          "name": "GCloud",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+        },
+        {
+          "name": "GraphQL",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        },
+        {
+          "name": "HTML",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "Javascript",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Jenkins",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+        },
+        {
+          "name": "Kubernetes",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+        },
+        {
+          "name": "Linux",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        },
+        {
+          "name": "NGINX",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+        },
+        {
+          "name": "Node.js",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        },
+        {
+          "name": "npm",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        },
+        {
+          "name": "React",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Ubuntu",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+        },
+        {
+          "name": "VSCode",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        },
+        {
+          "name": "Terraform",
+          "img": "https://api.iconify.design/logos/terraform-icon.svg?width=80&height=80"
+        },
+        {
+          "name": "Ansible",
+          "img": "https://api.iconify.design/vscode-icons/file-type-ansible.svg?width=80&height=80"
+        },
+        {
+          "name": "Puppet",
+          "img": "https://api.iconify.design/vscode-icons/file-type-puppet.svg?width=80&height=80"
+        },
+        {
+          "name": "Consul",
+          "img": "https://api.iconify.design/logos/consul.svg?width=80&height=80"
+        },
+        {
+          "name": "Python",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        },
+        {
+          "name": "Nomad",
+          "img": "https://api.iconify.design/logos/nomad.svg?width=80&height=80"
+        },
+        {
+          "name": "Go",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
         }
       ]
     }

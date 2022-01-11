@@ -16,8 +16,10 @@
         "startDate": "2021",
         "description": "A fun front-end portfolio project, using a public themeing option. Hosted on AWS s3 and served by CDN.",
         "images": [
-          "images/portfolio/lpms/p1.jpg",
-          "images/portfolio/lpms/p2.png"          
+          "images/portfolio/portfolio/p1.png",          
+          "images/portfolio/portfolio/p3.png",
+          "images/portfolio/portfolio/p4.png",
+          "images/portfolio/portfolio/p5.png"           
         ],
         "url": "https://github.com/aswinrajan/react-portfolio",
         "technologies": [      
@@ -45,8 +47,10 @@
         "startDate": "2021",
         "description": "A fun front-end portfolio project, using a public themeing option. Hosted on AWS s3 and served by CDN.",
         "images": [
-          "images/portfolio/lpms/p1.jpg",
-          "images/portfolio/lpms/p2.png"          
+          "images/portfolio/portfolio/p1.png",          
+          "images/portfolio/portfolio/p3.png",
+          "images/portfolio/portfolio/p4.png",
+          "images/portfolio/portfolio/p5.png"           
         ],
         "url": "https://github.com/aswinrajan/react-portfolio",
         "technologies": [      
@@ -68,14 +72,16 @@
             "name": "React-Bootstrap"
           }
         ]
-      } ,
+      },
       {
         "title": "Personal Website",
         "startDate": "2021",
         "description": "A fun front-end portfolio project, using a public themeing option. Hosted on AWS s3 and served by CDN.",
         "images": [
-          "images/portfolio/lpms/p1.jpg",
-          "images/portfolio/lpms/p2.png"          
+          "images/portfolio/portfolio/p1.png",          
+          "images/portfolio/portfolio/p3.png",
+          "images/portfolio/portfolio/p4.png",
+          "images/portfolio/portfolio/p5.png"           
         ],
         "url": "https://github.com/aswinrajan/react-portfolio",
         "technologies": [      
@@ -97,8 +103,9 @@
             "name": "React-Bootstrap"
           }
         ]
-      } 
-           
+      }
+
+      
     ],
     "education": [
       {

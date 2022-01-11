@@ -39,7 +39,66 @@
             "name": "React-Bootstrap"
           }
         ]
-      }      
+      } ,
+      {
+        "title": "Personal Website",
+        "startDate": "2021",
+        "description": "A fun front-end portfolio project, using a public themeing option. Hosted on AWS s3 and served by CDN.",
+        "images": [
+          "images/portfolio/lpms/p1.jpg",
+          "images/portfolio/lpms/p2.png"          
+        ],
+        "url": "https://github.com/aswinrajan/react-portfolio",
+        "technologies": [      
+          
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Bootstrap"
+          }
+        ]
+      } ,
+      {
+        "title": "Personal Website",
+        "startDate": "2021",
+        "description": "A fun front-end portfolio project, using a public themeing option. Hosted on AWS s3 and served by CDN.",
+        "images": [
+          "images/portfolio/lpms/p1.jpg",
+          "images/portfolio/lpms/p2.png"          
+        ],
+        "url": "https://github.com/aswinrajan/react-portfolio",
+        "technologies": [      
+          
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Bootstrap"
+          }
+        ]
+      } 
+           
     ],
     "education": [
       {
@@ -78,12 +137,7 @@
         "title": "Technical Analyst",
         "description": "",
         "responsibilities" : [
-          "Providing system support for all environments including our production teams",
-          "Working on technical implementation of apps and infrastructure",
-          "Being involved in with larger in-house projects to meet our customer's requirements",
-          "Supporting the creation of standardised documentation",
-          "Developing skills and understanding of Maximus Canada's tech estate and the process",
-          "Developing, testing and supporting current systems"
+          "PLorem Ipsum."
         ],
         "years": "03.2021 - present",
         "mainTech": [
@@ -104,10 +158,55 @@
         ],
         "years": "08.2018 - 05.2019",
         "mainTech": [
-          ""
+          "Azure"
         ],
         "technologies": [
-          ""
+          "Production Support"
+        ]
+      },
+      {
+        "company": "H&R Block",
+        "title": "Systems Administrator",
+        "description": "Lorem Ipsum.",
+        "responsibilities": [
+          "Lorem Ipsum"
+        ],
+        "years": "02.2017 - 04.2018",
+        "mainTech": [
+          "Systems Administrator"
+        ],
+        "technologies": [
+          "Production Support"
+        ]
+      },
+      {
+        "company": "FCV Technologies Ltd.",
+        "title": "Junior Systems Analyst",
+        "description": "Lorem Ipsum.",
+        "responsibilities": [
+          "Lorem Ipsum"
+        ],
+        "years": "10.2015 - 10.2016",
+        "mainTech": [
+          "Systems Administrator"
+        ],
+        "technologies": [
+          "Production Support"
+        ]
+      },
+      {
+        "company": "H&R Block",
+        "title": "IT Suport Specialist",
+        "description": "Lorem Ipsum.",
+        "responsibilities": [
+          "Lorem Ipsum"
+        ],
+        "years": "01.2012 - 08.2015",
+        "mainTech": [
+          "Systems Administrator"
+        ],
+        "technologies": [
+          "Production Support"
         ]
       }
     ]

@@ -144,8 +144,16 @@
           "img": "https://api.iconify.design/logos/nomad.svg?width=80&height=80"
         },
         {
+          "name": "Red Hat",
+          "img": "https://api.iconify.design/grommet-icons/redhat.svg?width=80&height=80"
+        },
+        {
           "name": "Go",
-          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
+          "img": "https://api.iconify.design/vscode-icons/file-type-go.svg?width=80&height=80"
+        },
+        {
+          "name": "tmux",
+          "img": "https://api.iconify.design/codicon/terminal-tmux.svg?width=80&height=80"
         }
       ]
     }

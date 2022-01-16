@@ -31,7 +31,7 @@ class Experience extends Component {
         });
         var responsibilities = jobResponsibilities.map((responsibility, i) => {
           return (
-            <li>{responsibility}</li>
+            <p>{responsibility}</p>
           );
         });
         return (

@@ -113,34 +113,21 @@
       {
         "company": "Athabasca University",
         "title": "Bachelor's Degree",
-        "description": "Third year of part-time evening & weekend studies for a Bachelor of Science in Computing Information Systems. Currently persuing my degree online due to pandemic reasons.",
+        "description": "",
         "years": "2020 - 2023",
         "mainTech": [
-          "Computer Software Engineering"
         ],
-        "technologies": [    
-          "Data Structures and Algorithms",      
-          "Web Development",
-          "Web Services",
-          "Agile Software Engineering Principles",
-          "Application Development",
-          "More to come..."
+        "technologies": [   
         ]
       },
       {
         "company": "Northern Alberta Institute of Technology",
         "title": "Technical Diploma",
-        "description": "Took 1 year worht of credits with courses on copmuter systems and programming.",
+        "description": "",
         "years": "2014 - 2015",
         "mainTech": [
-          "Computer Software Development"
         ],
         "technologies": [
-          "Systems Analysis and Design",
-          "Application Development",
-          "Programming Fundamentals",
-          "Database Fundamentals",
-          "Computer Networks"
         ]
       }
     ],    
@@ -148,81 +135,64 @@
       {
         "company": "Maximus Canada",
         "title": "Technical Analyst",
-        "description": "Triaged, monitored and resolved Tier 2 & 3 technical Ipsum issues on-site and remotely using Service Desk for 2000+ users and 100+ tickets in a M365 and Azure environment.  ",
-        "responsibilities" : [
-          "Created, updated and maintained Powershell scripts for automation of user onboarding & offboarding including asset management, account set-up and access management.",
-          "Delegated and issued security access for highly sensitive systems and in house applications",
-          "Hands on experience with Azure AD Tenant Administration, Endpoint Manager, Mobile Device Management and M365 applications.",
-          "Packaged software through Intune to deploy packages remotely through the cloud."
-        ],
+        "description": "",
+       "responsibilities" : [ ],
         "years": "03.2021 - present",
         "mainTech": [
-          "Azure",
-          "Incident Management",
-          "Change Management"
         ],
         "technologies": [
-          "Azure"
         ]
       },
       {
         "company": "H&R Block",
         "title": "Cloud Administrator- Azure",
-        "description": "Lorem Ipsum.",
+        "description": "",
         "responsibilities": [
-          "Lorem Ipsum"
+          ""
         ],
         "years": "08.2018 - 05.2019",
         "mainTech": [
-          "Azure"
         ],
         "technologies": [
-          "Lorem Ipsum"
         ]
       },
       {
         "company": "H&R Block",
         "title": "Systems Administrator",
-        "description": "Lorem Ipsum.",
+        "description": "",
         "responsibilities": [
-          "Lorem Ipsum"
+          ""
         ],
         "years": "02.2017 - 04.2018",
         "mainTech": [
-          "Systems Administrator"
         ],
         "technologies": [
-          "Lorem Ipsum"
         ]
       },
       {
         "company": "FCV Technologies Ltd.",
         "title": "Junior Systems Analyst",
-        "description": "Lorem Ipsum.",
+        "description": "",
         "responsibilities": [
-          "Lorem Ipsum"
+          ""
         ],
         "years": "10.2015 - 10.2016",
         "mainTech": [
-          "Systems Administrator"
         ],
         "technologies": [
-          "Lorem Ipsum"
         ]
       },
       {
         "company": "H&R Block",
         "title": "IT Suport Specialist",
-        "description": "Lorem Ipsum.",
+        "description": "",
         "responsibilities": [
-          "Lorem Ipsum"
+          ""
         ],
         "years": "01.2012 - 08.2015",
         "mainTech": [
-          "Systems Administrator"
         ],
         "technologies": [
-          "Lorem Ipsum"
         ]
       }
     ]

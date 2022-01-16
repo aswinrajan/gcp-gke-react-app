@@ -122,11 +122,7 @@
         {
           "name": "Terraform",
           "img": "https://api.iconify.design/logos/terraform-icon.svg?width=80&height=80"
-        },
-        {
-          "name": "Ansible",
-          "img": "https://api.iconify.design/vscode-icons/file-type-ansible.svg?width=80&height=80"
-        },
+        },       
         {
           "name": "Puppet",
           "img": "https://api.iconify.design/vscode-icons/file-type-puppet.svg?width=80&height=80"

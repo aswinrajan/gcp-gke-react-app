@@ -8,9 +8,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.RUN_PROJECT }}
-  GKE_CLUSTER: personal-cluster    
-  GKE_ZONE: us-west1-c	  
-  DEPLOYMENT_NAME: app-prod 
+  
 
 jobs:
   setup-and-deploy:
@@ -25,22 +23,16 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    
-    - id: 'auth'
-      uses: 'google-github-actions/auth@v0'
-      with:
-        credentials_json: '${{ secrets.RUN_SA_KEY }}'
-
+  
     # Setup gcloud CLI
     - name: Set up Cloud SDK
       uses: google-github-actions/setup-gcloud@v0
 
-    # Get the GKE credentials so we can deploy to the cluster
-    - run: |-
-        gcloud container clusters get-credentials "$GKE_CLUSTER" --zone "$GKE_ZONE"
-    # Deploy sample image to the GKE cluster
-    - name: Deploy
-      run: |-
-        kubectl apply -f docker-compose.prod.yml
-        kubectl rollout status deployment/$DEPLOYMENT_NAME
-        kubectl get services -o wide
+    # deploy to GCR
+ 
+    - uses: RafikFarhad/push-to-gcr-github-action@v4
+      with:
+        gcloud_service_key: ${{ secrets.RUN_SA_KEY }}'
+        registry: gcr.io
+        project_id: ${{ secrets.RUN_PROJECT }}
+        image_name: app-prod
